@@ -1,0 +1,4 @@
+﻿  WinMain.cpp
+e:\github\mydirectx11\hw3d\winmain.cpp(59): warning C4244: “return”: 从“WPARAM”转换到“int”，可能丢失数据
+  hw3d.vcxproj -> E:\github\myDirectX11\x64\Debug\hw3d.exe
+  hw3d.vcxproj -> E:\github\myDirectX11\x64\Debug\hw3d.pdb (Partial PDB)
